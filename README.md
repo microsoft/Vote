@@ -15,6 +15,8 @@ These vibrant and dynamic designs are inspired by the diverse voices and perspec
 # Make it yours
 Profile pictures, yard signs, posters, stickers, badges, banners, print ads, postcards, flags and more - the possibilities are limitless of what you can create. 
 
+Get all assets on [OneDrive](https://1drv.ms/f/s!ArGaBSA2dWjgvKk_j9oJ1e2jmURv3w?e=vpXecx).
+
 Use [Figma](https://aka.ms/voteopensource) and GitHub assets if you're a pro. For most common designs, visit [Microsoft Unlocked](https://aka.ms/vote2024) and use design assets in Microsoft Designer and Clipchamp.
 
 ![image](https://github.com/user-attachments/assets/da6fdb99-6c9a-4e92-8023-f947034dcde2)
